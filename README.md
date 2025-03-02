@@ -15,5 +15,8 @@ El proyecto consistio en una base de datos llamada Universitario la cual registr
 * El archivo **dql_triggers.sql**  contiene los triggers.
 * El Readme **Readme**: contiene la informacion del proyecto.
 
+ ## Estructura del proyecto
+![alt text](<./Estructura_del_proyecto.png>)
+
 ## Desarrollo 
 * El proyecto fue desarrollado por Camilo machuca vega Grupo: T2
